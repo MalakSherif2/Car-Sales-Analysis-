@@ -303,9 +303,9 @@ Car-Sales-Analytics/
 
 ![Overview Dashboard]("C:\Users\malak\OneDrive\Imagens\Screenshots\Screenshot 2026-09-04 011055.png")
 
-### Sales & Geography
+### Sales 
 
-![Sales & Geography Dashboard](screenshots/sales_geography.png)
+![Sales & Geography Dashboard](Screenshot 2026-09-04 110113.png)
 
 ### Vehicle Analytics
 
