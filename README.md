@@ -180,7 +180,7 @@ Includes:
 
 ---
 
-### 2️⃣ Sales & Geography
+### 2️⃣ Sales
 
 Focuses on sales distribution across brands and US states.
 
@@ -301,7 +301,7 @@ Car-Sales-Analytics/
 
 ### Overview
 
-![Overview Dashboard]("Screenshot 2026-09-04 011055.png")
+![Overview Dashboard](Screenshot 2026-09-06 194146.png)
 
 ### Sales 
 
