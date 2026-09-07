@@ -301,7 +301,7 @@ Car-Sales-Analytics/
 
 ### Overview
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard]("C:\Users\malak\OneDrive\Imagens\Screenshots\Screenshot 2026-09-04 011055.png")
 
 ### Sales & Geography
 
@@ -379,9 +379,7 @@ Potential future improvements include:
 # 👩‍💻 Author
 
 **Malak Sherif**
-
-Computer Science & Statistics Student
-Aspiring Data Analyst
+Data Analyst
 
 ### Connect With Me
 
