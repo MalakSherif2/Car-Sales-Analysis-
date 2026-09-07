@@ -385,8 +385,7 @@ Aspiring Data Analyst
 
 ### Connect With Me
 
-* 💼 LinkedIn: [Add LinkedIn URL]
-* 💻 GitHub: [Add GitHub URL]
+* 💼 LinkedIn: [[Add LinkedIn URL](https://www.linkedin.com/in/malak-sherif-b03138357?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]
 
 ---
 
