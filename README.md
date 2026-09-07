@@ -305,7 +305,7 @@ Car-Sales-Analytics/
 
 ### Sales 
 
-![Sales & Geography Dashboard](Screenshot 2026-09-04 110113.png)
+![Sales ](Screenshot%202026-09-04%20011055.png)
 
 ### Vehicle Analytics
 
