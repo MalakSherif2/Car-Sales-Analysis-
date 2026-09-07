@@ -1,6 +1,6 @@
 # 🚗 Car Sales Analytics Dashboard
 
-An end-to-end **Data Analytics project** analyzing **400K+ vehicle transactions across the United States** to uncover insights into sales performance, pricing, vehicle characteristics, geographic trends, and seller performance.
+An end-to-end **Data Analytics project** analyzing **500K+ vehicle transactions across the United States** to uncover insights into sales performance, pricing, vehicle characteristics, geographic trends, and seller performance.
 
 The project follows a complete analytics workflow, starting from **raw data cleaning and quality validation in Python**, followed by **data modeling in SQL Server using a Star Schema**, and ending with an **interactive Power BI dashboard** for business-oriented analysis.
 
