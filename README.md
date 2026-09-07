@@ -313,7 +313,7 @@ Car-Sales-Analytics/
 
 ### Seller Insights
 
-![Seller Insights Dashboard](screenshots/seller_insights.png)
+![Seller Insights Dashboard](Screenshot%202026-09-04%20110137.png)
 
 ---
 
