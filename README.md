@@ -301,7 +301,7 @@ Car-Sales-Analytics/
 
 ### Overview
 
-![Overview Dashboard]("C:\Users\malak\OneDrive\Imagens\Screenshots\Screenshot 2026-09-04 011055.png")
+![Overview Dashboard]("Screenshot 2026-09-04 011055.png")
 
 ### Sales 
 
