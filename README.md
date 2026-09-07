@@ -301,7 +301,7 @@ Car-Sales-Analytics/
 
 ### Overview
 
-![Overview Dashboard](Screenshot 2026-09-06 194146.png)
+![Overview Dashboard](Screenshot%202026-09-06%20194146.png)
 
 ### Sales 
 
