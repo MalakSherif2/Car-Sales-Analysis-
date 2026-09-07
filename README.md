@@ -309,7 +309,7 @@ Car-Sales-Analytics/
 
 ### Vehicle Analytics
 
-![Vehicle Analytics Dashboard](screenshots/vehicle_analytics.png)
+![Vehicle Analytics Dashboard](Screenshot%202026-09-04%20110308.png)
 
 ### Seller Insights
 
